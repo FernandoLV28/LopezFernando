@@ -1,6 +1,7 @@
 //
 // 
 //
+export {preorder}
 
 function preorder(n){
   if (n!==null){

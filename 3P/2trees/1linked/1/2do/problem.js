@@ -3,7 +3,7 @@
 // imports
 // preorder
 //
-
+import {preorder} from '../preorder.js'
 function Node(o){
     this.d=o//bject<->data
     this.l=null//eft
